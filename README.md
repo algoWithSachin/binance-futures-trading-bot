@@ -48,7 +48,7 @@ The goal of this project is to demonstrate:
 git clone https://github.com/algoWithSachin/binance-futures-trading-bot.git
 ```
 ```
-cd trading_bot
+cd binance-futures-trading-bot
 ```
 ### Create Virtual Env
 ```
@@ -56,7 +56,7 @@ uv venv
 ```
 ### 2. Install dependencies
 ```
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 ### 3. Create .env file
